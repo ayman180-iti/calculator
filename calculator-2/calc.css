@@ -14,7 +14,7 @@ body {
 }
 
 .container {
-  background: #ebe8e8;
+  background: #000000;
   padding: 20px;
   width: 350px;
   border-radius: 15px;
@@ -75,4 +75,5 @@ button {
   color: #fff;
   opacity: 0;
 }
+
 
